@@ -1,6 +1,13 @@
 # Tugas-1-Modul-1-Kelompok-1-PBF-RA
 Tugas 1 Kelompok 1 Modul 1 Untuk Mata Kuliah Praktikum Berbasis Fungsi (PBF) kelas RA
 
+Anggota Kelompok 1 PBF:
+- Dhea Amelia Putri - 122450004
+- Khoirul Mizan Abdullah - 122450010
+- Jeremia Susanto - 122450022
+- Ibrahim Al-Kahfi - 122450100
+- Nabila Zakiyah Zahra - 122450139
+
 Tugas Jurnal Kelompok (Tahun 2023)
 1. Buatlah fungsi komposisi dengan nilai f(x) = 4^x, g(x) = x^x, dan h(x) = 3 + x dengan pemrograman prosedural tiga fungsi dan pemrograman fungsional dengan lambda.
 2. Buatlah pemrograman berbasis objek pada soal no.1
