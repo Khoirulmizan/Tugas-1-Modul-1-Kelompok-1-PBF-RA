@@ -19,7 +19,7 @@ Special Soal 5: Diberikan Algoritma Metode Bisection berikut:
 8. b. if f(x0)f(x2) > 0 then x0 = x2 and x1 = x1
 9. c. if f(x0)f(x2) = 0 then goto (8)
 10. if |f(x2)| > e then goto (5) otherwise goto (8)
-11. Display x2 as root.
+11. Display x2 as root
 12. Stop
 
-Buatlah prosedural programming dari persoalan di atas dan ubahlah dengan functional programming. lakukan dengan batas toleransi . dengan fungsi yang diberikan sebagai berikut: dan nilai a dan b adalah di antara 0 dan 1 (nilai antara tidak boleh 0 dan 1)
+Buatlah prosedural programming dari persoalan di atas dan ubahlah dengan functional programming. lakukan dengan batas toleransi 10^-5. dengan fungsi yang diberikan sebagai berikut: x - 2^x dan nilai a dan b adalah di antara 0 dan 1 (nilai antara tidak boleh 0 dan 1).
