@@ -21,5 +21,5 @@ Special Soal 5: Diberikan Algoritma Metode Bisection berikut:
 10. if |f(x2)| > e then goto (5) otherwise goto (8)
 11. Display x2 as root.
 12. Stop
-13. 
+
 Buatlah prosedural programming dari persoalan di atas dan ubahlah dengan functional programming. lakukan dengan batas toleransi . dengan fungsi yang diberikan sebagai berikut: dan nilai a dan b adalah di antara 0 dan 1 (nilai antara tidak boleh 0 dan 1)
