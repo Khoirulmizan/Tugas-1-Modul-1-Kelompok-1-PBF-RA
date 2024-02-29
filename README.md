@@ -9,7 +9,7 @@ Tugas Jurnal Kelompok (Tahun 2023)
 Pemrograman berbasis Fungsi. uji dengan membandingkan mana yang tercepat komputasinya.
 
 Special Soal 5: Diberikan Algoritma Metode Bisection berikut:
-1. start
+1. Start
 2. Define function f(x)
 3. Choose initial guesses x0 and x1 such that f(x0)f(x1) < 0
 4. Choose pre-specified tolerable error e.
@@ -23,3 +23,4 @@ Special Soal 5: Diberikan Algoritma Metode Bisection berikut:
 12. Stop
 
 Buatlah prosedural programming dari persoalan di atas dan ubahlah dengan functional programming. lakukan dengan batas toleransi 10^-5. dengan fungsi yang diberikan sebagai berikut: x - 2^x dan nilai a dan b adalah di antara 0 dan 1 (nilai antara tidak boleh 0 dan 1).
+
